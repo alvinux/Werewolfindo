@@ -1,2 +1,2 @@
-# penanggal
-Penanggal adalah game semacam werewolf
+# Werewolfindo
+Werewolfindo adalah game semacam werewolf
